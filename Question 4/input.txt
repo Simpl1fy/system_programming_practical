@@ -1,0 +1,11 @@
+int main() {
+    int x;
+    float y;
+    char z;
+
+    {
+        int w;
+    }
+
+    return 0;
+}
